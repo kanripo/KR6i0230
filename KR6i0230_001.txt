@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:29.091633
+#+DATE: 2015-08-30 20:13:30.300922
 #+TITLE: 佛說天王太子辟羅經
 #+PROPERTY: CBETA_ID T15n0596
 #+PROPERTY: ID KR6i0230
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 596
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0230_T_000-0130b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0230_T_001-0130b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.596¶
-
- 《佛說天王太子辟羅經》¶
+No. 596¶
+《佛說天王太子辟羅經》¶
 ¶
 僧祐錄云關中異經今附秦錄¶
 
