@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說天王太子辟羅經
+#+DATE: 2015-08-30 20:13:29.287823
+#+PROPERTY: JUAN 0
