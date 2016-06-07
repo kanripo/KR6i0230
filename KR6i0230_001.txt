@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:29.710202
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:59
 #+TITLE: 佛說天王太子辟羅經
 #+PROPERTY: CBETA_ID T15n0596
 #+PROPERTY: ID KR6i0230
